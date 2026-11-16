@@ -171,7 +171,7 @@ function renderLanguages(stats) {
   const rows = stats.languages.map(({ name, percent }, i) => {
     const y = top + i * rowH;
     const fill = PALETTE[i % PALETTE.length];
-    const barW = Math.max(14, (percent / topPercent) * trackW);
+    const barW = Math.round(Math.max(14, (percent / topPercent) * trackW));
     return `<text x="40" y="${y + 27}" font-size="20" fill="${C.ink}">${esc(name)}</text>` +
       `<rect x="${trackX}" y="${y}" width="${trackW}" height="34" fill="${C.cream}" stroke="${C.ink}" stroke-width="3"/>` +
       block(trackX, y, barW, 34, fill, { offset: 0, strokeWidth: 3 }) +
@@ -214,8 +214,8 @@ function renderActivity(stats) {
   const slot = chartW / ACTIVITY_WEEKS;
   const barW = slot - 8;
   const bars = totals.map((total, i) => {
-    const h = total === 0 ? 4 : Math.max(8, (total / maxTotal) * chartH);
-    const x = chartX + i * slot;
+    const h = total === 0 ? 4 : Math.round(Math.max(8, (total / maxTotal) * chartH));
+    const x = Math.round((chartX + i * slot) * 10) / 10;
     return block(x, baseY - h, barW, h, PALETTE[i % PALETTE.length], { offset: 0, strokeWidth: 2.5 });
   });
   const body = [
