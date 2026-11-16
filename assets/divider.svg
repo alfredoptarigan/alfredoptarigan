@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 36" width="1000" height="36" role="img" aria-label="divider"><title>divider</title><style>
+text{font-family:'Trebuchet MS','Verdana','Helvetica Neue',Arial,sans-serif;font-weight:800}
+.float{animation:float 5s ease-in-out infinite}
+.f2{animation-duration:6.5s;animation-delay:-1.5s}
+.f3{animation-duration:4s;animation-delay:-2.5s}
+.spin{transform-box:fill-box;transform-origin:center;animation:spin 18s linear infinite}
+@keyframes float{50%{transform:translateY(-8px)}}
+@keyframes spin{to{transform:rotate(360deg)}}
+@media (prefers-reduced-motion:reduce){.float,.spin{animation:none}}
+</style><path d="M6 20 q7 -14 14 0 t14 0 t14 0 t14 0 t14 0 t14 0 t14 0 t14 0 t14 0 t14 0 t14 0 t14 0" fill="none" stroke="#FF5CA8" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/><circle cx="196" cy="18" r="6" fill="#FFF6E5" stroke="#111111" stroke-width="3"/><path d="M206 20 q7 -14 14 0 t14 0 t14 0 t14 0 t14 0 t14 0 t14 0 t14 0 t14 0 t14 0 t14 0 t14 0" fill="none" stroke="#14D9C5" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/><circle cx="396" cy="18" r="6" fill="#FFF6E5" stroke="#111111" stroke-width="3"/><path d="M406 20 q7 -14 14 0 t14 0 t14 0 t14 0 t14 0 t14 0 t14 0 t14 0 t14 0 t14 0 t14 0 t14 0" fill="none" stroke="#FFD23F" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/><circle cx="596" cy="18" r="6" fill="#FFF6E5" stroke="#111111" stroke-width="3"/><path d="M606 20 q7 -14 14 0 t14 0 t14 0 t14 0 t14 0 t14 0 t14 0 t14 0 t14 0 t14 0 t14 0 t14 0" fill="none" stroke="#8B5CF6" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/><circle cx="796" cy="18" r="6" fill="#FFF6E5" stroke="#111111" stroke-width="3"/><path d="M806 20 q7 -14 14 0 t14 0 t14 0 t14 0 t14 0 t14 0 t14 0 t14 0 t14 0 t14 0 t14 0 t14 0" fill="none" stroke="#3A86FF" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/></svg>

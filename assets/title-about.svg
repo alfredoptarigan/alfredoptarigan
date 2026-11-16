@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 76" width="1000" height="76" role="img" aria-label="About me"><title>About me</title><style>
+text{font-family:'Trebuchet MS','Verdana','Helvetica Neue',Arial,sans-serif;font-weight:800}
+.float{animation:float 5s ease-in-out infinite}
+.f2{animation-duration:6.5s;animation-delay:-1.5s}
+.f3{animation-duration:4s;animation-delay:-2.5s}
+.spin{transform-box:fill-box;transform-origin:center;animation:spin 18s linear infinite}
+@keyframes float{50%{transform:translateY(-8px)}}
+@keyframes spin{to{transform:rotate(360deg)}}
+@media (prefers-reduced-motion:reduce){.float,.spin{animation:none}}
+</style><rect width="1000" height="76" fill="#FFF6E5"/><rect x="29" y="17" width="208" height="46" rx="23" fill="#111111"/><rect x="24" y="12" width="208" height="46" rx="23" fill="#FF5CA8" stroke="#111111" stroke-width="3"/><text x="48" y="45" font-size="27" fill="#111111" textLength="160" lengthAdjust="spacingAndGlyphs">ABOUT ME</text><path d="M262 38 q7 -12 14 0 t14 0 t14 0 t14 0 t14 0 t14 0 t14 0 t14 0 t14 0 t14 0 t14 0 t14 0 t14 0 t14 0 t14 0 t14 0 t14 0 t14 0 t14 0 t14 0 t14 0 t14 0 t14 0 t14 0 t14 0 t14 0 t14 0 t14 0 t14 0" fill="none" stroke="#111111" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/><g class="float f1"><polygon points="900,11.442666666666668 923,51.278666666666666 877,51.278666666666666" fill="#FFD23F" stroke="#111111" stroke-width="3" stroke-linejoin="round" transform="rotate(10 900 38)"/></g><g class="float f2"><circle cx="955" cy="30" r="13" fill="#14D9C5" stroke="#111111" stroke-width="3"/></g><rect x="2" y="2" width="996" height="72" fill="none" stroke="#111111" stroke-width="4"/></svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 76" width="1000" height="76" role="img" aria-label="Let&apos;s connect"><title>Let&apos;s connect</title><style>
+text{font-family:'Trebuchet MS','Verdana','Helvetica Neue',Arial,sans-serif;font-weight:800}
+.float{animation:float 5s ease-in-out infinite}
+.f2{animation-duration:6.5s;animation-delay:-1.5s}
+.f3{animation-duration:4s;animation-delay:-2.5s}
+.spin{transform-box:fill-box;transform-origin:center;animation:spin 18s linear infinite}
+@keyframes float{50%{transform:translateY(-8px)}}
+@keyframes spin{to{transform:rotate(360deg)}}
+@media (prefers-reduced-motion:reduce){.float,.spin{animation:none}}
+</style><rect width="1000" height="76" fill="#FFF6E5"/><rect x="29" y="17" width="308" height="46" rx="23" fill="#111111"/><rect x="24" y="12" width="308" height="46" rx="23" fill="#FF8A3D" stroke="#111111" stroke-width="3"/><text x="48" y="45" font-size="27" fill="#111111" textLength="260" lengthAdjust="spacingAndGlyphs">LET'S CONNECT</text><path d="M362 38 q7 -12 14 0 t14 0 t14 0 t14 0 t14 0 t14 0 t14 0 t14 0 t14 0 t14 0 t14 0 t14 0 t14 0 t14 0 t14 0 t14 0 t14 0 t14 0 t14 0 t14 0 t14 0 t14 0" fill="none" stroke="#111111" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/><g class="float f2"><polygon points="905,12.597333333333335 927,50.70133333333333 883,50.70133333333333" fill="#14D9C5" stroke="#111111" stroke-width="3" stroke-linejoin="round" transform="rotate(-8 905 38)"/></g><g class="spin"><path d="M947 36H973M960 23V49" fill="none" stroke="#FF5CA8" stroke-width="6" stroke-linecap="round"/></g><rect x="2" y="2" width="996" height="72" fill="none" stroke="#111111" stroke-width="4"/></svg>
