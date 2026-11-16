@@ -18,6 +18,8 @@ Hi, I'm **Alfredo**, a fullstack developer from Medan, North Sumatra. I started 
 - 💬 **Ask me about:** Go, TypeScript, Laravel, Flutter, and backend architecture
 - ⚡ **Fun fact:** I build tools for fun too, like a job crawler and a dev sentinel in Rust
 
+&nbsp;
+
 <img src="./assets/title-stack.svg" alt="Tech stack" width="100%" />
 
 &nbsp;
@@ -38,6 +40,8 @@ Hi, I'm **Alfredo**, a fullstack developer from Medan, North Sumatra. I started 
 
 </div>
 
+&nbsp;
+
 <img src="./assets/title-stats.svg" alt="GitHub stats" width="100%" />
 
 &nbsp;
@@ -56,6 +60,8 @@ Hi, I'm **Alfredo**, a fullstack developer from Medan, North Sumatra. I started 
 
 </div>
 
+&nbsp;
+
 <img src="./assets/title-projects.svg" alt="Featured projects" width="100%" />
 
 &nbsp;
@@ -69,6 +75,8 @@ Hi, I'm **Alfredo**, a fullstack developer from Medan, North Sumatra. I started 
 | [**whatsapp-official-backend-go**](https://github.com/alfredoptarigan/whatsapp-official-backend-go) | Backend for the official WhatsApp API, written in Go. | ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white) |
 | [**dev-sentinel**](https://github.com/alfredoptarigan/dev-sentinel) | Developer tooling built in Rust. | ![Rust](https://img.shields.io/badge/Rust-000?logo=rust&logoColor=white) |
 | [**app-bendahara-bkad-laravel**](https://github.com/alfredoptarigan/app-bendahara-bkad-laravel) | Treasury app for the Medan city government (2024). | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white) |
+
+&nbsp;
 
 <img src="./assets/title-connect.svg" alt="Let's connect" width="100%" />
 
